@@ -227,5 +227,9 @@ return [
         'View' => Illuminate\Support\Facades\View::class,
 
     ],
+    'cdn' => array(
+        // "static.ejazire.com" => "",
+        "localhost:8000/cdn" => "",
+    ),
 
 ];

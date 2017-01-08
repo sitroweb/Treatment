@@ -1,0 +1,241 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("../fonts/med-icon/flaticon.eot");
+	src: url("../fonts/med-icon/flaticon.eot") format("embedded-opentype"),
+	url("../fonts/med-icon/flaticon.woff") format("woff"),
+	url("../fonts/med-icon/flaticon.ttf") format("truetype"),
+	url("../fonts/med-icon/flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="mcare-flaticon-"]:before, [class*=" mcare-flaticon-"]:before,
+[class^="mcare-flaticon-"]:after, [class*=" mcare-flaticon-"]:after {   
+	font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.mcare-flaticon-2429:before {
+	content: "\e000";
+}
+.mcare-flaticon-ambulance6:before {
+	content: "\e001";
+}
+.mcare-flaticon-apple31:before {
+	content: "\e002";
+}
+.mcare-flaticon-ball15:before {
+	content: "\e003";
+}
+.mcare-flaticon-bottle1:before {
+	content: "\e004";
+}
+.mcare-flaticon-brain5:before {
+	content: "\e005";
+}
+.mcare-flaticon-caduceus1:before {
+	content: "\e006";
+}
+.mcare-flaticon-clinic2:before {
+	content: "\e007";
+}
+.mcare-flaticon-closed40:before {
+	content: "\e008";
+}
+.mcare-flaticon-dental-care:before {
+	content: "\e009";
+}
+.mcare-flaticon-dentist:before {
+	content: "\e00a";
+}
+.mcare-flaticon-dentist13:before {
+	content: "\e00b";
+}
+.mcare-flaticon-dentist7:before {
+	content: "\e00c";
+}
+.mcare-flaticon-dna2:before {
+	content: "\e00d";
+}
+.mcare-flaticon-ear:before {
+	content: "\e00e";
+}
+.mcare-flaticon-ecg1:before {
+	content: "\e00f";
+}
+.mcare-flaticon-ecg2:before {
+	content: "\e010";
+}
+.mcare-flaticon-eye44:before {
+	content: "\e011";
+}
+.mcare-flaticon-eye67:before {
+	content: "\e012";
+}
+.mcare-flaticon-eyeglasses6:before {
+	content: "\e013";
+}
+.mcare-flaticon-filled5:before {
+	content: "\e014";
+}
+.mcare-flaticon-filled8:before {
+	content: "\e015";
+}
+.mcare-flaticon-first10:before {
+	content: "\e016";
+}
+.mcare-flaticon-first21:before {
+	content: "\e017";
+}
+.mcare-flaticon-first47:before {
+	content: "\e018";
+}
+.mcare-flaticon-foot4:before {
+	content: "\e019";
+}
+.mcare-flaticon-forceps1:before {
+	content: "\e01a";
+}
+.mcare-flaticon-gauze:before {
+	content: "\e01b";
+}
+.mcare-flaticon-health:before {
+	content: "\e01c";
+}
+.mcare-flaticon-health7:before {
+	content: "\e01d";
+}
+.mcare-flaticon-healthy3:before {
+	content: "\e01e";
+}
+.mcare-flaticon-hearing1:before {
+	content: "\e01f";
+}
+.mcare-flaticon-heart285:before {
+	content: "\e020";
+}
+.mcare-flaticon-hospital32:before {
+	content: "\e021";
+}
+.mcare-flaticon-hospital5:before {
+	content: "\e022";
+}
+.mcare-flaticon-increasing8:before {
+	content: "\e023";
+}
+.mcare-flaticon-injection:before {
+	content: "\e024";
+}
+.mcare-flaticon-intravenous:before {
+	content: "\e025";
+}
+.mcare-flaticon-lifeline5:before {
+	content: "\e026";
+}
+.mcare-flaticon-liver1:before {
+	content: "\e027";
+}
+.mcare-flaticon-male119:before {
+	content: "\e028";
+}
+.mcare-flaticon-male128:before {
+	content: "\e029";
+}
+.mcare-flaticon-male138:before {
+	content: "\e02a";
+}
+.mcare-flaticon-male150:before {
+	content: "\e02b";
+}
+.mcare-flaticon-male41:before {
+	content: "\e02c";
+}
+.mcare-flaticon-man412:before {
+	content: "\e02d";
+}
+.mcare-flaticon-medical1:before {
+	content: "\e02e";
+}
+.mcare-flaticon-medical26:before {
+	content: "\e02f";
+}
+.mcare-flaticon-medical28:before {
+	content: "\e030";
+}
+.mcare-flaticon-medical38:before {
+	content: "\e031";
+}
+.mcare-flaticon-medical90:before {
+	content: "\e032";
+}
+.mcare-flaticon-medicine13:before {
+	content: "\e033";
+}
+.mcare-flaticon-medicine29:before {
+	content: "\e034";
+}
+.mcare-flaticon-microscope4:before {
+	content: "\e035";
+}
+.mcare-flaticon-nurse4:before {
+	content: "\e036";
+}
+.mcare-flaticon-person287:before {
+	content: "\e037";
+}
+.mcare-flaticon-pharmacy5:before {
+	content: "\e038";
+}
+.mcare-flaticon-pills3:before {
+	content: "\e039";
+}
+.mcare-flaticon-plaster:before {
+	content: "\e03a";
+}
+.mcare-flaticon-positive3:before {
+	content: "\e03b";
+}
+.mcare-flaticon-science29:before {
+	content: "\e03c";
+}
+.mcare-flaticon-skeleton:before {
+	content: "\e03d";
+}
+.mcare-flaticon-small-1:before {
+	content: "\e03e";
+}
+.mcare-flaticon-small154:before {
+	content: "\e03f";
+}
+.mcare-flaticon-stethoscope-:before {
+	content: "\e040";
+}
+.mcare-flaticon-stethoscope11:before {
+	content: "\e041";
+}
+.mcare-flaticon-strong:before {
+	content: "\e042";
+}
+.mcare-flaticon-surgeon1:before {
+	content: "\e043";
+}
+.mcare-flaticon-syringe:before {
+	content: "\e044";
+}
+.mcare-flaticon-syringe6:before {
+	content: "\e045";
+}
+.mcare-flaticon-testtube1:before {
+	content: "\e046";
+}
+.mcare-flaticon-time8:before {
+	content: "\e047";
+}
+.mcare-flaticon-tooth23:before {
+	content: "\e048";
+}
+.mcare-flaticon-wave:before {
+	content: "\e049";
+}
+.mcare-flaticon-white20:before {
+	content: "\e04a";
+}
