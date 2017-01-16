@@ -52,7 +52,7 @@
                         <div class="top-bar-txt no-pad pull-left">
 
                             <span class="top-info-contact">
-                                <form method="post" action="">
+                                <form method="post" action="ffffffff">
                                     <select>
                                         <option value="fa">فارسی</option>
                                         <option value="ar">العربیه</option>
