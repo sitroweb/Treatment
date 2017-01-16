@@ -49,7 +49,20 @@
                             <span class="top-info-contact"><i class="ion-android-call top-info-icon"></i>+1 (888) 000-0000</span>
 
                         </div>
+                        <div class="top-bar-txt no-pad pull-left">
 
+                            <span class="top-info-contact">
+                                <form method="post" action="">
+                                    <select>
+                                        <option value="fa">فارسی</option>
+                                        <option value="ar">العربیه</option>
+                                        <option value="en">English</option>
+                                    </select>
+                                </form>
+                                <!--<i class="ion-android-call top-info-icon"></i>+1 (888) 000-0000-->
+                            </span>
+
+                        </div>
 
 
                         <!--Topbar Right Text-->
@@ -230,7 +243,7 @@
 
                                                 <li>
 
-                                                    <a href="index.html">Home</a>
+                                                    <a href="index.html">@lang('theme.home')</a>
 
                                                 </li>
 
